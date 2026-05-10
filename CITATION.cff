@@ -4,7 +4,7 @@ authors:
   - family-names: Fatah
     given-names: Abdul
     orcid: "https://orcid.org/0009-0007-5254-8595"
-title: "Linear Algebra for Quantum Computing — Qiskit 2.x Implementation"
+title: "Linear Algebra for Quantum Computing"
 version: 1.0.0
 date-released: 2026-05-10
 url: "https://github.com/fatahjamro/linear-algebra-for-quantum-computing"
